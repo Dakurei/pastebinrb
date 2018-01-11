@@ -25,7 +25,7 @@ module Pastebinrb
     end
 
     def get_raw(link)
-      Net::HTTP.get_response(URI.parse("#{BASE_URL}/raw/#{link[/[\w\d]+$/]}")).body
+      Net::HTTP.get_response(URI.parse("#{BASE_URL}/raw/#{link[/[\w]+$/]}")).body
     end
   end
 end
