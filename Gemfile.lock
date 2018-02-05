@@ -1,12 +1,12 @@
 PATH
   remote: .
   specs:
-    pastebinrb (1.0.0)
+    pastebinrb (1.1.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    minitest (5.11.1)
+    minitest (5.11.3)
     rake (10.5.0)
 
 PLATFORMS
