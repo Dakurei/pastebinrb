@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pastebinrb (1.2.1)
+    pastebinrb (1.2.2)
 
 GEM
   remote: https://rubygems.org/
@@ -19,7 +19,7 @@ DEPENDENCIES
   rake (~> 10.0)
 
 RUBY VERSION
-   ruby 2.5.2p104
+   ruby 2.5.3p105
 
 BUNDLED WITH
    1.16.6
